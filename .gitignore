@@ -1,0 +1,9 @@
+# Ignore generated vulnerability reports
+enterprise_vapt_dashboard.html
+security_report.html
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+.env
