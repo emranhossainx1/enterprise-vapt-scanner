@@ -1,0 +1,4 @@
+# External libraries required for network operations and terminal UI styling
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+colorama>=0.4.6
